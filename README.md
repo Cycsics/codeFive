@@ -14,7 +14,7 @@
 
 #### <https://github.com/timesler/facenet-pytorch>
 
-### YOLOv5
+### YOLOv5 (Cycsics)
 
 #### <https://github.com/deepcam-cn/yolov5-face>
 
