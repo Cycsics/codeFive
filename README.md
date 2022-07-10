@@ -14,6 +14,10 @@
 
 #### <https://github.com/timesler/facenet-pytorch>
 
+### YOLOv5
+
+#### <https://github.com/deepcam-cn/yolov5-face>
+
 ## 数据集
 
 ### 视频数据集 （470 GB）
